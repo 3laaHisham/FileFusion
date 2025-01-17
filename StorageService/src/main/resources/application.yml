@@ -5,8 +5,8 @@ spring:
   cloud:
     aws:
       credentials:
-        access-key: AKIAZI2LFJRYYN36F2M7
-        secret-key: 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
+        access-key: 
+        secret-key: 
       s3:
         region: me-central-1
         bucket: atosinternship
